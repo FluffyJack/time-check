@@ -1,0 +1,15 @@
+{
+  "name": "time-check",
+  "version": "1.0.0",
+  "description": "*Env vars:*",
+  "main": "index.js",
+  "dependencies": {
+    "harvest": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
